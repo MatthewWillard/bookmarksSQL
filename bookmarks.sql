@@ -11,4 +11,11 @@ insert into bookmarks (name, tag, url)
 values
   ('ESPN', 'Sports', 'ESPN.com'),
   ('CNN', 'News', 'Cnn.com'),
-  ('Reddit', 'Random', 'Reddit.com');
+  ('Reddit', 'Random', 'Reddit.com'),
+  ('Netflix', 'Streaming', 'Netflix.com'),
+  ('Hulu', 'Streaming', 'Hulu.com'),
+  ('Facebook', 'Social Media', 'Facebook.com'),
+  ('Instagram', 'Social Media', 'Instagram.com'),
+  ('Twitter', 'Social Media', 'Twitter.com'),
+  ('IGN', 'Gaming', 'IGN.com'),
+  ('Amazon', 'Shopping', 'Amazon.com');
